@@ -15,9 +15,9 @@
 - 📫 How to reach me **jasminshaik005@gmail.com**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UPjs4mElLoNl869vxKXq_YCSisOWX8vk/view?usp=share_link">Resume</a>
 
-<h3 align="left">Follow me on 
+<h3 align="left">Follow me</h3>
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-jasmin-586518204/)
- </h3>
+ 
  
 
 
