@@ -25,7 +25,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jasmin2410&show_icons=true&locale=en&layout=compact" alt="Jasmin2410" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jasmin2410&&theme=algolia" alt="Jasmin2410" /></p>
 <br></br>
 <br></br>
 <br></br>
