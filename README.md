@@ -35,11 +35,7 @@
 <br></br>
 
 </a> </p>
-<br></br>
-<br></br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jasmin2410&" alt="Jasmin2410" /></p>
-
- <p align="center">
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jasmin2410&theme=algolia" alt="Jasmin2410" />
 </p>
 <br></br>
