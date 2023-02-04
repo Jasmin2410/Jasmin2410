@@ -30,7 +30,7 @@
 <br></br>
 <br></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jasmin2410&show_icons=true&locale=en" alt="Jasmin2410"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jasmin2410&&theme=algolia" alt="Jasmin2410"/></p>
 <br></br>
 <br></br>
 </a> </p>
