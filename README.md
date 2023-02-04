@@ -33,8 +33,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jasmin2410&show_icons=true&locale=en" alt="Jasmin2410"/></p>
 <br></br>
 <br></br>
-
 </a> </p>
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jasmin2410&theme=algolia" alt="Jasmin2410" />
+</p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jasmin2410&theme=algolia" alt="Jasmin2410" />
 </p>
