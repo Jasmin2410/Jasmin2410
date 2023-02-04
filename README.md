@@ -2,7 +2,9 @@
 
 <h3 align="center">Hello! My name is Jasmin and I am a Passionate Full Stack Web Developer, with strong administrative and problem-solving skills.</h3>
 
-<div margin="auto" hight="300px" border="1px" solid "green"><img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width=400/></div>
+<div margin="auto" hight="300px" border="1px" solid "green"><video src="https://cdn.dribbble.com/users/427857/screenshots/16181208/media/73c4efbf90e1bd8011ea9b2b9e422e77.mp4" width=400/>
+ </video>
+</div>
 
 
 
