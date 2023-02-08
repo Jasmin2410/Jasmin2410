@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java Backend Development at Masai School**
 - 💬 Ask me about  **HTML,CSS,JavaScript,Java,SpringBoot,SQL,JDBC**
-- 👨‍💻 All of my projects are available at  **<a href="https://Jasmin2410.github.io/">Protfolio</a>**
+- 👨‍💻 All of my projects are available at  **<a href="https://jasmin2410.github.io/">Protfolio</a>**
 
 - 📫 How to reach me **jasminshaik005@gmail.com**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UPjs4mElLoNl869vxKXq_YCSisOWX8vk/view?usp=share_link">Resume</a>
